@@ -6,11 +6,10 @@ Pineapple, Sugerapple, Watermelon.
 
 ## Spesifikasi Sistem
 
-- **OS:** _(isi: mis. Windows 11 Home 23H2)_
-- **CPU:** _(isi)_
-- **RAM:** _(isi)_
+- **OS:** Windows 11 Home Single Language 23H2 (build 22631.6199)
+- **Spesifikasi Komputer:** Intel Core i5-1135G7 @ 2.40GHz, RAM 8 GB
 - **GPU:** NVIDIA GeForce MX330, 2 GB VRAM
-- **Python:** 3.10.0
+- **Python:** 3.11.8
 - **Library utama:** Ultralytics 8.4.157, PyTorch 2.7.1+cu118
 
 ## Isi Repository
