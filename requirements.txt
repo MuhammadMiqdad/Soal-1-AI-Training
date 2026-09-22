@@ -1,0 +1,4 @@
+ultralytics>=8.3.0
+opencv-python
+# torch dipasang otomatis oleh ultralytics (versi CPU).
+# Jika punya GPU NVIDIA, install torch versi CUDA dulu dari https://pytorch.org
